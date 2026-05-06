@@ -9,7 +9,7 @@ const mockCerts = [
   title: "Data Structures and Algorithms – Self-Paced Online Course",
   issuer: "GeeksforGeeks",
   year: "2025",
-  image: "C:\Users\sabni\Desktop\TY Sem6\Projects\my-portfoli\public\image.png",
+  image: "C:/Users/sabni/Desktop/TY Sem6/Projects/my-portfoli/public/image.png",
   description:
     "This course strengthened my understanding of core data structures and algorithms and helped me learn how to choose the right approach for different problem-solving scenarios. It covered important concepts such as arrays, linked lists, stacks, queues, trees, graphs, sorting, and searching, along with where and how these concepts are applied in programming.",
   },
@@ -19,7 +19,7 @@ const mockCerts = [
   title: "Java Course – Mastering the Fundamentals",
   issuer: "Scaler Topics",
   year: "2025",
-  image: "C:\Users\sabni\Desktop\TY Sem6\Projects\my-portfoli\public\image1.png",
+  image: "C:/Users/sabni/Desktop/TY Sem6/Projects/my-portfoli/public/image1.png",
   description:
     "This course helped me strengthen my understanding of Java programming fundamentals and advanced concepts. It covered core Java syntax, object-oriented programming principles, problem-solving logic, and the practical structure needed to write clean and efficient Java programs.",
 },
@@ -28,7 +28,7 @@ const mockCerts = [
   title: "Power BI for Beginners",
   issuer: "Simplilearn",
   year: "2025",
-  image: "C:\Users\sabni\Desktop\TY Sem6\Projects\my-portfoli\public\image2.png",
+  image: "C:/Users/sabni/Desktop/TY Sem6/Projects/my-portfoli/public/image2.png",
   description:
     "This course introduced me to the basics of Power BI and helped me understand how to create simple dashboards for data visualization and reporting. It covered beginner-level concepts such as working with data, building visual reports, and presenting insights in a more clear and structured format.",
 },
